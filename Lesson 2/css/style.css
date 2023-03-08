@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    width:500xp;
+    margin:auto;
+    padding:20px;
+    background-image: ur("bg_mono.png");
+}
+.content {
+    width:500px;    
+    margin:auto;
+    padding:20px;
+    text-decoration-color:dimgray;
+    background-color:aliceblue;
+}
